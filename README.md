@@ -1,6 +1,5 @@
 ![Header](./github-header-banner.png)
 <div align="center">
-<div align="center">
 
 <sub>G &nbsp; I &nbsp; T &nbsp; H &nbsp; U &nbsp; B &nbsp;&nbsp;&nbsp; P &nbsp; R &nbsp; O &nbsp; F &nbsp; I &nbsp; L &nbsp; E</sub>
 
@@ -85,4 +84,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nazwaumbara&color=b08d8d&style=flat-square&label=profile+views)
 
-</div>>
+</div>
