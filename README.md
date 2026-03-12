@@ -54,21 +54,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nazwaumbara&theme=vue&hide_border=true&background=FFFFFF&ring=B08D8D&fire=C9A8B8&currStreakLabel=B08D8D&sideLabels=A09090&dates=BFB0B0&stroke=E2D9D3)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazwaumbara&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=FFFFFF&title_color=B08D8D&text_color=3D3535)
-
-</div>
-
-<br>
-
----
-
-### ◈ &nbsp; Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nazwaumbara/nazwaumbara/output/snake.svg" alt="Contribution Snake" />
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nazwaumbara&theme=vue&hide_border=true&background=FFFFFF&ring=B08D8D&fire=C9A8B8&currStreakLabel=B08D8D&sideLabels=A09090&dates=BFB0B0&stroke=E2D9D3)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazwaumbara&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=FFFFFF&title_color=B08D8D&text_color=3D3535)
 
 </div>
 
