@@ -68,17 +68,7 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-<strong>64</strong><br>
-<sub>contributions this year</sub>
-</td>
-<td align="center">
-<sub>Jan &ensp;·&ensp; Feb &ensp;·&ensp; Mar &ensp;·&ensp; 2026</sub>
-</td>
-</tr>
-</table>
+
 
 <img src="https://raw.githubusercontent.com/nazwaumbara/nazwaumbara/output/snake.svg" alt="Contribution Snake" />
 
