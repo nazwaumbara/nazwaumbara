@@ -1,7 +1,8 @@
 ![Header](./github-header-banner.png)
 <div align="center">
+<div align="center">
 
-<sub>✦ &nbsp; G I T H U B &nbsp; P R O F I L E &nbsp; ✦</sub>
+<sub>G &nbsp; I &nbsp; T &nbsp; H &nbsp; U &nbsp; B &nbsp;&nbsp;&nbsp; P &nbsp; R &nbsp; O &nbsp; F &nbsp; I &nbsp; L &nbsp; E</sub>
 
 # NAZWAUMBARA
 
@@ -9,15 +10,15 @@
 
 <br>
 
-[![Instagram](https://img.shields.io/badge/%E2%80%8B_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nazwaumbara/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/%E2%80%8B_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazwaumbara/)&nbsp;
-[![Email](https://img.shields.io/badge/%E2%80%8B_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazwaumbara@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nazwaumbara/)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazwaumbara/)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nazwaumbara@gmail.com)
 
 </div>
 
----
-
 <br>
+
+---
 
 ### ◈ &nbsp; Languages
 
@@ -54,9 +55,9 @@
 
 <div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nazwaumbara&theme=dracula&hide_border=true&background=1A1B26&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9&sideLabels=6C7086&dates=6C7086&stroke=2E2F4A)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nazwaumbara&theme=vue&hide_border=true&background=FFFFFF&ring=B08D8D&fire=C9A8B8&currStreakLabel=B08D8D&sideLabels=A09090&dates=BFB0B0&stroke=E2D9D3)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazwaumbara&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=1A1B26&title_color=BD93F9&text_color=CDD6F4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazwaumbara&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=FFFFFF&title_color=B08D8D&text_color=3D3535)
 
 </div>
 
@@ -64,11 +65,9 @@
 
 ---
 
-### ◈ &nbsp; Activity — 2026
+### ◈ &nbsp; Activity
 
 <div align="center">
-
-
 
 <img src="https://raw.githubusercontent.com/nazwaumbara/nazwaumbara/output/snake.svg" alt="Contribution Snake" />
 
@@ -84,6 +83,6 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nazwaumbara&color=bd93f9&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=nazwaumbara&color=b08d8d&style=flat-square&label=profile+views)
 
-</div>
+</div>>
