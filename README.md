@@ -22,8 +22,7 @@
 
 #### My Github Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=nazwaumbara&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nazwaumbara&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=nazwaumbara&theme=dracula&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nazwaumbara&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 ---
@@ -33,8 +32,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nazwaumbara/nazwaumbara/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<img src="https://raw.githubusercontent.com/nazwaumbara/nazwaumbara/output/snake.svg" alt="Snake animation" />
-
-###
