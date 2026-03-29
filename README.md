@@ -52,13 +52,13 @@
 
 ### ◈ &nbsp; GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nazwaumbara&theme=dracula&hide_border=true&background=FFFFFF&ring=B08D8D&fire=C9A8B8&currStreakLabel=B08D8D&sideLabels=A09090&dates=BFB0B0&stroke=E2D9D3)
 
 </div>
 
-<br>
+<br> -->
 
 ---
 
