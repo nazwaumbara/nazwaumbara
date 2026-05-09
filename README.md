@@ -3,7 +3,7 @@
 
 <sub>G &nbsp; I &nbsp; T &nbsp; H &nbsp; U &nbsp; B &nbsp;&nbsp;&nbsp; P &nbsp; R &nbsp; O &nbsp; F &nbsp; I &nbsp; L &nbsp; E</sub>
 
-# NAZU
+# NAZUxVENOM
 
 *Developer &ensp;·&ensp; Data Enthusiast &ensp;·&ensp; Lifelong Learner*
 
